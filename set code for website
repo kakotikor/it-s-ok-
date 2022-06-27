@@ -1,0 +1,16 @@
+import webbrowser
+import time
+print("please enter your user_id")
+id = input()
+if id == "62178" or id == "82946" or id == "89076" or id == "19628" or id == "91723" or id == "10183": #whatever you want , (or id == " "
+    webbrowser.open('url')
+else:
+    print("You may not access this website")
+time.sleep(2)
+
+print("please enter your userid")
+id = input()
+if id == "62178" or id == "82946" or id == "89076" or id == "19628" or id == "91723" or id == "fa6738":
+    webbrowser.open('url')
+else:
+    print("You may not access this website")
